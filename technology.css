@@ -1,0 +1,48 @@
+h1
+{
+    color: rgb(217,245,184);
+    font-family: sans-serif
+}
+
+p
+{
+    color: rgb(177,199,149);
+    font-size: 21px;
+    font-family: sans-serif;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 3px;
+  border-color: rgb(217,245,184);
+}
+
+body {
+    text-align: center
+}
+
+img {
+    width: 300px;
+    border-style: double;
+    border-width: 10px;
+    border-color: saddlebrown;
+    align-content: center;
+    border-color: rgb(217,245,184);
+    
+}
+
+h6 {
+    font-style: italic;
+    font-size: 16px;
+    color: rgb(97,105,87);
+}
